@@ -23,6 +23,6 @@ python manage.py runserver
 
 ## Team
 
-Jose Alonzo Gordillo · **Ower Lopez Arela** · Rommel Chambi
+Jose Alonzo Gordillo · Ower Lopez Arela · Rommel Chambi
 
 > Developed collaboratively — see [contributors](https://github.com/OwerLopez/django-bookstore-app/graphs/contributors).
