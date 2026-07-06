@@ -25,5 +25,4 @@ python manage.py runserver
 
 Jose Alonzo Gordillo · **Ower Lopez Arela** · Rommel Chambi
 
----
-[Portfolio](https://owerlopez.dev) · [LinkedIn](https://linkedin.com/in/ower-frank-lopez-arela-29558a285)
+> Developed collaboratively — see [contributors](https://github.com/OwerLopez/django-bookstore-app/graphs/contributors).
